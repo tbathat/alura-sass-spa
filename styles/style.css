@@ -17,8 +17,18 @@ nav ul a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
-  color: #9CA777;
+  color: #7C9070;
 }
 nav ul a:hover {
-  border-bottom: 2px solid #FEE8B0;
+  border-bottom: 2px solid #A9907E;
+}
+
+.banner {
+  background: url(../../imagens/banner.jpeg) 27% center no-repeat;
+  min-height: 350px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
 }/*# sourceMappingURL=style.css.map */
