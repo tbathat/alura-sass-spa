@@ -10,6 +10,12 @@ Esse READ ME tem como finalidade fixar os conteúdos abordados sobre a tecnologi
 - Modularizamos o CSS tornando as folhas de estilos mais fáceis de manter;
 - Estilizamos o navbar e incluímos o efeito hover através do operador &.
 
+## Etapa 02
+
+- Criamos a partial para manter os estilos do banner e posicionamos a imagem e os textos;
+- Realizamos operações matemáticas para ajustar os tamanho dos textos das tags h1 e do h2;
+- Vimos de forma prática que as variáveis declaradas no nível superior de uma folha de estilo são globais, porém aqueles  declarados em blocos geralmente são locais e só podem ser acessados dentro do bloco em que foram declarados.
+
 ### Palavras Reservadas
 
 |Palavra Reservada  |	O que ela faz                         |
