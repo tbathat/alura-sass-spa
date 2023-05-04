@@ -1,11 +1,13 @@
 /*FONTES*/
 /*CORES*/
+/*TAMANHO DAS FONTES*/
 html, body {
   font-family: "Roboto", sans-serif;
 }
 
 /*FONTES*/
 /*CORES*/
+/*TAMANHO DAS FONTES*/
 nav {
   text-align: center;
 }
@@ -17,12 +19,15 @@ nav ul a {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
-  color: #7C9070;
+  color: #61764B;
 }
 nav ul a:hover {
-  border-bottom: 2px solid #A9907E;
+  border-bottom: 2px solid #FAD6A5;
 }
 
+/*FONTES*/
+/*CORES*/
+/*TAMANHO DAS FONTES*/
 .banner {
   background: url(../../imagens/banner.jpeg) 27% center no-repeat;
   min-height: 350px;
@@ -31,4 +36,19 @@ nav ul a:hover {
   justify-content: center;
   align-items: center;
   opacity: 0.9;
+}
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #FAD6A5;
+  opacity: 0.9;
+  border-radius: 45px;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  color: #61764B;
+}
+.banner .inner-banner h2 {
+  font-size: 1.5rem;
+  color: #9BA17B;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
