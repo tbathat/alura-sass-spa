@@ -4,7 +4,7 @@ Esse READ ME tem como finalidade fixar os conteúdos abordados sobre a tecnologi
 
 ## Etapa 01:
 
-- Carregamos o projeto base que vamos estilizar neste treinamento com Sass;
+- Carregamos o projeto base que vamossta estilizar neste treinamento com Sass;
 - Organizamos os arquivos de estilos criando partials, que contêm pequenos 
   trechos de CSS que podem ser incluídos em outros arquivos Sass;
 - Modularizamos o CSS tornando as folhas de estilos mais fáceis de manter;
@@ -30,3 +30,8 @@ Esse READ ME tem como finalidade fixar os conteúdos abordados sobre a tecnologi
 | `@error` |Faz com que a compilação falhe com uma mensagem de erro.|
 | `@warn` | Imprime um aviso sem parar totalmente a compilação.|
 | `@debug` | Imprime uma mensagem para fins de debugging. |
+
+## Etapa 03
+
+- Modularizamos os códigos de estilo criando a partial de serviço e cupom;
+- Aplicamos os estilos nas imagens e nos textos melhorando a visibilidade do SPA.
