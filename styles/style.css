@@ -51,4 +51,70 @@ nav ul a:hover {
   font-size: 1.5rem;
   color: #9BA17B;
   font-weight: bold;
+}
+
+/*FONTES*/
+/*CORES*/
+/*TAMANHO DAS FONTES*/
+#services {
+  margin: 80px;
+}
+#services h3 {
+  font-size: 1.5rem;
+  color: #61764B;
+  font-weight: 350;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 1rem;
+}
+#services h4 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 80px;
+  width: 300;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+.cards .card {
+  width: 360px;
+  text-align: center;
+}
+.cards .card h5 {
+  font-size: 2rem;
+  font-weight: 300;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  color: #61764B;
+}
+.cards .card p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #61764B;
+  line-height: 1.25rem;
+}
+.cards .card .img-container {
+  padding-bottom: 2px;
+  border-bottom: 4px solid #9BA17B;
+}
+.cards .card .img-container img {
+  max-width: 100%;
+}
+
+/*FONTES*/
+/*CORES*/
+/*TAMANHO DAS FONTES*/
+#coupon {
+  background-color: #FAD6A5;
+  padding: 4rem;
+  text-align: center;
+}
+#coupon .texto {
+  color: #61764B;
+}
+#coupon h2 {
+  margin: 2rem;
+  font-size: 2rem;
 }/*# sourceMappingURL=style.css.map */
