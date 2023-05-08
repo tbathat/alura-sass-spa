@@ -171,4 +171,26 @@ footer {
 }
 footer i {
   color: red;
+}
+
+/*FONTES*/
+/*CORES*/
+/*TAMANHO DAS FONTES*/
+#curiosities {
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 1rem;
+  margin: 5px;
+}
+#curiosities h3 {
+  font-size: 2rem;
+  color: #61764B;
+  margin-bottom: 2rem;
+}
+#curiosities h4 {
+  font-size: 1.5rem;
+  padding-bottom: 2rem;
+}
+#curiosities p {
+  margin-top: 5px;
 }/*# sourceMappingURL=style.css.map */

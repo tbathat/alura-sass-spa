@@ -35,3 +35,13 @@ Esse READ ME tem como finalidade fixar os conteúdos abordados sobre a tecnologi
 
 - Modularizamos os códigos de estilo criando a partial de serviço e cupom;
 - Aplicamos os estilos nas imagens e nos textos melhorando a visibilidade do SPA.
+
+
+### Para saber mais
+Assim como a maioria das linguagens de programação usadas atualmente, no Sass também existe as conficionais if e else.
+
+- @if
+O padrão de escrita do if é @if <expression> { ... }, que controla se seu bloco é avaliado ou não (incluindo a emissão de qualquer estilo como CSS). A expressão geralmente retorna true ou false —se a expressão retornar true, o bloco será executado e, se a expressão retornar false, não será executado.
+
+- @else
+Já no caso do else, escrita é @else { ... }. O bloco desta regra é avaliado se a @if retornar falso.

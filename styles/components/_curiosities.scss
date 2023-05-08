@@ -1,0 +1,23 @@
+@import '../abstract/variables';
+
+#curiosities {
+    font-size: $tamanho-do-texto / 2.5;
+    text-align: center;
+    padding: 1rem;
+    margin: 5px;
+    
+    
+    h3 {
+        font-size: $tamanho-do-texto / 1.5;
+        color: $cor-primaria;
+        margin-bottom: 2rem;
+        }
+    h4 {
+        font-size: $tamanho-do-texto / 2;
+        padding-bottom: 2rem;
+    }
+    p {
+        margin-top: 5px;
+        
+    }
+}
