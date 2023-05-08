@@ -48,3 +48,8 @@ O padrão de escrita do if é @if <expression> { ... }, que controla se seu bloc
 
 - @else
 Já no caso do else, escrita é @else { ... }. O bloco desta regra é avaliado se a @if retornar falso.
+
+## Resumão 
+
+- Foi possível aprender como usar o Sass de forma prática, criando variáveis, funções e aninhamento de classes. 
+- Além disso, aprendi como modularizar as folhas de estilos criando partials e tornando mais fácil de manter, atualizar e editar sempre que necessário.
